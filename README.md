@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nujii/architect-validator.png)](http://travis-ci.org/nujii/architect-validator)
 # architect-validator
 
 [validator](https://github.com/chriso/node-validator) plugin for 
